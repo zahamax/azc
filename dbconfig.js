@@ -1,4 +1,4 @@
-herrequire('dotenv').config()
+rrequire('dotenv').config()
 const db = require('knex')({
   client: 'pg',
   connection: {
